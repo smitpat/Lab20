@@ -1,4 +1,4 @@
- #include <iostream>
+#include <iostream>
 #include <string>
 
 using namespace std;
@@ -11,7 +11,6 @@ struct fruitType
     int sugar;
     int carbohyderate;
 };
-
 int main()
 {
     fruitType fruit;
